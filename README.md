@@ -32,6 +32,15 @@ A comprehensive web application for managing programmer registrations, featuring
   - Bulk management of records.
 - **Duplicate Prevention**: intelligent checks to prevent multiple registrations with the same email or phone number.
 
+## 📸 Screenshots & Demo
+
+Here's a visual tour of the application:
+
+![Screenshot 1](./docs/screenshots/1.png)
+![Screenshot 2](./docs/screenshots/2.png)
+![Screenshot 3](./docs/screenshots/3.png)
+![Screenshot 4](./docs/screenshots/4.png)
+
 ## How to Start
 
 ### Prerequisites
